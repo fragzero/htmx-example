@@ -1,5 +1,5 @@
 # htmx-example
-A project example using go and htmx 
+A little TODO project example using [go](https://go.dev/doc/install), [templates](https://pkg.go.dev/html/template) and [htmx](https://htmx.org) 
 
 ## Install
  https://go.dev/doc/install
